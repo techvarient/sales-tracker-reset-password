@@ -1,0 +1,6 @@
+# Python dependencies for the reset password server
+# This file lists all the Python packages required to run the server
+
+# Core dependencies
+python-dotenv>=0.19.0
+urllib3>=1.26.7
